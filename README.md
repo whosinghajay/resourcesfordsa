@@ -1,5 +1,5 @@
 # resourcesfordsa
 
 ![NOTES](data/Operators.png)
-![NOTES](data/leftANDrightShift.png)
+![NOTES](data/leftANDrighShift.png)
 ![NOTES](data/precedenceRule.png)
